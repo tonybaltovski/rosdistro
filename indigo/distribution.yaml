@@ -4515,7 +4515,7 @@ repositories:
       url: https://github.com/heron/heron.git
       version: indigo-devel
     status: developed
-  heron-desktop:
+  heron_desktop:
     doc:
       type: git
       url: https://github.com/heron/heron_desktop.git
@@ -16541,7 +16541,7 @@ repositories:
       url: https://github.com/warthog-cpr/warthog.git
       version: indigo-devel
     status: developed
-  warthog-simulator:
+  warthog_simulator:
     doc:
       type: git
       url: https://github.com/warthog-cpr/warthog_simulator.git
