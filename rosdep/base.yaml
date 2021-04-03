@@ -6040,6 +6040,9 @@ sdl2-ttf:
   fedora: [SDL2_ttf-devel]
   gentoo: [media-libs/sdl2-ttf]
   ubuntu: [libsdl2-ttf-dev]
+setpriv:
+  ubuntu:
+    bionic: [setpriv]
 setserial:
   debian: [setserial]
   fedora: [setserial]
