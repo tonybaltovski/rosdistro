@@ -6311,6 +6311,9 @@ log4cxx:
   slackware: [apache-log4cxx]
   ubuntu:
     '*': [liblog4cxx-dev]
+lsb-release:
+  debian: [lsb-release]
+  ubuntu: [lsb-release]
 lttng-modules:
   arch: [lttng-modules]
   debian: [lttng-modules-dkms]
